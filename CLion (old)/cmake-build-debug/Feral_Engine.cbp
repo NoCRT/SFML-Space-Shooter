@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Feral_Engine"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\SFML-2.5.1-MiniGW-32\;CMake Files\..\..\..\..\..\..\..\SFML-2.5.1-MiniGW-32\lib\;CMake Files\..\..\..\..\..\..\..\SFML-2.5.1-MiniGW-32\lib\cmake\;CMake Files\..\..\..\..\..\..\..\SFML-2.5.1-MiniGW-32\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Feral_Engine">
+				<Option output="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Feral_Engine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/SFML-2.5.1-MiniGW-32/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 Feral_Engine"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Feral_Engine/fast">
+				<Option output="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Feral_Engine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/SFML-2.5.1-MiniGW-32/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 Feral_Engine/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/Feral">
+			<Option target="Feral_Engine"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/Feral/Source Files/Asteroid.cpp">
+			<Option target="Feral_Engine"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/Feral/Source Files/Entity.cpp">
+			<Option target="Feral_Engine"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/Feral/Source Files/HudElement.cpp">
+			<Option target="Feral_Engine"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/Feral/Source Files/Laser.cpp">
+			<Option target="Feral_Engine"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/Feral/Source Files/MusicManager.cpp">
+			<Option target="Feral_Engine"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/Feral/Source Files/Ship.cpp">
+			<Option target="Feral_Engine"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/Feral/Source Files/SoundManager.cpp">
+			<Option target="Feral_Engine"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/main.cpp">
+			<Option target="Feral_Engine"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/../../../../../../../SFML-2.5.1-MiniGW-32/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\SFML-2.5.1-MiniGW-32\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/../../../../../../../SFML-2.5.1-MiniGW-32/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\SFML-2.5.1-MiniGW-32\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/../../../../../../../SFML-2.5.1-MiniGW-32/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\SFML-2.5.1-MiniGW-32\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/../../../../../../../SFML-2.5.1-MiniGW-32/lib/cmake/SFML/SFMLSharedTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\SFML-2.5.1-MiniGW-32\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/../../../../../../../SFML-2.5.1-MiniGW-32/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\SFML-2.5.1-MiniGW-32\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/Dropbox/Applications/Clion/SFML Projects/Feral_Engine/../../../../../../../SFML-2.5.1-MiniGW-32/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\SFML-2.5.1-MiniGW-32\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

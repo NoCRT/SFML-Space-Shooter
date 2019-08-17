@@ -1,3 +1,0 @@
-C:\Users\NoName\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\191.7479.33\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\Space_Invader_Clone.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-W\mingw32\bin\ar.exe cr CMakeFiles\Space_Invader_Clone.dir/objects.a @CMakeFiles\Space_Invader_Clone.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-W\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Space_Invader_Clone.dir/objects.a -Wl,--no-whole-archive  -o Space_Invader_Clone.exe -Wl,--out-implib,libSpace_Invader_Clone.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Space_Invader_Clone.dir\linklibs.rsp
