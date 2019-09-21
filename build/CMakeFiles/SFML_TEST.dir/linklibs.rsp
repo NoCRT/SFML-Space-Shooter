@@ -1,0 +1,1 @@
+../libs/sfml-2.5.1-64-windows/lib/libsfml-graphics-d.a ../libs/sfml-2.5.1-64-windows/lib/libsfml-audio-d.a ../libs/sfml-2.5.1-64-windows/lib/libsfml-window-d.a ../libs/sfml-2.5.1-64-windows/lib/libsfml-system-d.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

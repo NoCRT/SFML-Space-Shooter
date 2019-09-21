@@ -1,3 +1,0 @@
-C:/Users/NoName/Sync/Applications/asteroids clone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/NoName/Sync/Applications/asteroids clone/cmake-build-debug/CMakeFiles/Space_Invader_Clone.dir
-C:/Users/NoName/Sync/Applications/asteroids clone/cmake-build-debug/CMakeFiles/edit_cache.dir
