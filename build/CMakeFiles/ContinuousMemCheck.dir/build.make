@@ -42,10 +42,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER
+CMAKE_SOURCE_DIR = C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build
+CMAKE_BINARY_DIR = C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build
 
 # Utility rule file for ContinuousMemCheck.
 
@@ -70,6 +70,6 @@ CMakeFiles/ContinuousMemCheck.dir/clean:
 .PHONY : CMakeFiles/ContinuousMemCheck.dir/clean
 
 CMakeFiles/ContinuousMemCheck.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build\CMakeFiles\ContinuousMemCheck.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build\CMakeFiles\ContinuousMemCheck.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ContinuousMemCheck.dir/depend
 

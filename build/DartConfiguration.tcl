@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: C:/Users/Aidan/Desktop/Projects/SFML-SHOOTER
-BuildDirectory: C:/Users/Aidan/Desktop/Projects/SFML-SHOOTER/build
+SourceDirectory: C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter
+BuildDirectory: C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -26,7 +26,7 @@ SubmitURL: http://
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "C:/Program Files/CMake/bin/cmake.exe" "C:/Users/Aidan/Desktop/Projects/SFML-SHOOTER"
+ConfigureCommand: "C:/Program Files/CMake/bin/cmake.exe" "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter"
 MakeCommand: C:/Program\ Files/CMake/bin/cmake.exe --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 
@@ -57,9 +57,9 @@ P4UpdateOptions:
 P4UpdateCustom: 
 
 # Generic update command
-UpdateCommand: 
+UpdateCommand: GITCOMMAND-NOTFOUND
 UpdateOptions: 
-UpdateType: 
+UpdateType: git
 
 # Compiler info
 Compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/g++.exe

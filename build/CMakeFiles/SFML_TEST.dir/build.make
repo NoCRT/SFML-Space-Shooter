@@ -42,10 +42,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER
+CMAKE_SOURCE_DIR = C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build
+CMAKE_BINARY_DIR = C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/SFML_TEST.dir/depend.make
@@ -59,114 +59,114 @@ include CMakeFiles/SFML_TEST.dir/flags.make
 CMakeFiles/SFML_TEST.dir/main.cpp.obj: CMakeFiles/SFML_TEST.dir/flags.make
 CMakeFiles/SFML_TEST.dir/main.cpp.obj: CMakeFiles/SFML_TEST.dir/includes_CXX.rsp
 CMakeFiles/SFML_TEST.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SFML_TEST.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\main.cpp.obj -c C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SFML_TEST.dir/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\main.cpp.obj -c C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\main.cpp
 
 CMakeFiles/SFML_TEST.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SFML_TEST.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\main.cpp > CMakeFiles\SFML_TEST.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\main.cpp > CMakeFiles\SFML_TEST.dir\main.cpp.i
 
 CMakeFiles/SFML_TEST.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SFML_TEST.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\main.cpp -o CMakeFiles\SFML_TEST.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\main.cpp -o CMakeFiles\SFML_TEST.dir\main.cpp.s
 
 CMakeFiles/SFML_TEST.dir/files/asteroid.cpp.obj: CMakeFiles/SFML_TEST.dir/flags.make
 CMakeFiles/SFML_TEST.dir/files/asteroid.cpp.obj: CMakeFiles/SFML_TEST.dir/includes_CXX.rsp
 CMakeFiles/SFML_TEST.dir/files/asteroid.cpp.obj: ../files/asteroid.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SFML_TEST.dir/files/asteroid.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\asteroid.cpp.obj -c C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\asteroid.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SFML_TEST.dir/files/asteroid.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\asteroid.cpp.obj -c C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\asteroid.cpp
 
 CMakeFiles/SFML_TEST.dir/files/asteroid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SFML_TEST.dir/files/asteroid.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\asteroid.cpp > CMakeFiles\SFML_TEST.dir\files\asteroid.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\asteroid.cpp > CMakeFiles\SFML_TEST.dir\files\asteroid.cpp.i
 
 CMakeFiles/SFML_TEST.dir/files/asteroid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SFML_TEST.dir/files/asteroid.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\asteroid.cpp -o CMakeFiles\SFML_TEST.dir\files\asteroid.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\asteroid.cpp -o CMakeFiles\SFML_TEST.dir\files\asteroid.cpp.s
 
 CMakeFiles/SFML_TEST.dir/files/entity.cpp.obj: CMakeFiles/SFML_TEST.dir/flags.make
 CMakeFiles/SFML_TEST.dir/files/entity.cpp.obj: CMakeFiles/SFML_TEST.dir/includes_CXX.rsp
 CMakeFiles/SFML_TEST.dir/files/entity.cpp.obj: ../files/entity.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SFML_TEST.dir/files/entity.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\entity.cpp.obj -c C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\entity.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SFML_TEST.dir/files/entity.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\entity.cpp.obj -c C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\entity.cpp
 
 CMakeFiles/SFML_TEST.dir/files/entity.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SFML_TEST.dir/files/entity.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\entity.cpp > CMakeFiles\SFML_TEST.dir\files\entity.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\entity.cpp > CMakeFiles\SFML_TEST.dir\files\entity.cpp.i
 
 CMakeFiles/SFML_TEST.dir/files/entity.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SFML_TEST.dir/files/entity.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\entity.cpp -o CMakeFiles\SFML_TEST.dir\files\entity.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\entity.cpp -o CMakeFiles\SFML_TEST.dir\files\entity.cpp.s
 
 CMakeFiles/SFML_TEST.dir/files/hud_element.cpp.obj: CMakeFiles/SFML_TEST.dir/flags.make
 CMakeFiles/SFML_TEST.dir/files/hud_element.cpp.obj: CMakeFiles/SFML_TEST.dir/includes_CXX.rsp
 CMakeFiles/SFML_TEST.dir/files/hud_element.cpp.obj: ../files/hud_element.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SFML_TEST.dir/files/hud_element.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\hud_element.cpp.obj -c C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\hud_element.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SFML_TEST.dir/files/hud_element.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\hud_element.cpp.obj -c C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\hud_element.cpp
 
 CMakeFiles/SFML_TEST.dir/files/hud_element.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SFML_TEST.dir/files/hud_element.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\hud_element.cpp > CMakeFiles\SFML_TEST.dir\files\hud_element.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\hud_element.cpp > CMakeFiles\SFML_TEST.dir\files\hud_element.cpp.i
 
 CMakeFiles/SFML_TEST.dir/files/hud_element.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SFML_TEST.dir/files/hud_element.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\hud_element.cpp -o CMakeFiles\SFML_TEST.dir\files\hud_element.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\hud_element.cpp -o CMakeFiles\SFML_TEST.dir\files\hud_element.cpp.s
 
 CMakeFiles/SFML_TEST.dir/files/laser.cpp.obj: CMakeFiles/SFML_TEST.dir/flags.make
 CMakeFiles/SFML_TEST.dir/files/laser.cpp.obj: CMakeFiles/SFML_TEST.dir/includes_CXX.rsp
 CMakeFiles/SFML_TEST.dir/files/laser.cpp.obj: ../files/laser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SFML_TEST.dir/files/laser.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\laser.cpp.obj -c C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\laser.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SFML_TEST.dir/files/laser.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\laser.cpp.obj -c C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\laser.cpp
 
 CMakeFiles/SFML_TEST.dir/files/laser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SFML_TEST.dir/files/laser.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\laser.cpp > CMakeFiles\SFML_TEST.dir\files\laser.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\laser.cpp > CMakeFiles\SFML_TEST.dir\files\laser.cpp.i
 
 CMakeFiles/SFML_TEST.dir/files/laser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SFML_TEST.dir/files/laser.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\laser.cpp -o CMakeFiles\SFML_TEST.dir\files\laser.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\laser.cpp -o CMakeFiles\SFML_TEST.dir\files\laser.cpp.s
 
 CMakeFiles/SFML_TEST.dir/files/music_manager.cpp.obj: CMakeFiles/SFML_TEST.dir/flags.make
 CMakeFiles/SFML_TEST.dir/files/music_manager.cpp.obj: CMakeFiles/SFML_TEST.dir/includes_CXX.rsp
 CMakeFiles/SFML_TEST.dir/files/music_manager.cpp.obj: ../files/music_manager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SFML_TEST.dir/files/music_manager.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\music_manager.cpp.obj -c C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\music_manager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SFML_TEST.dir/files/music_manager.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\music_manager.cpp.obj -c C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\music_manager.cpp
 
 CMakeFiles/SFML_TEST.dir/files/music_manager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SFML_TEST.dir/files/music_manager.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\music_manager.cpp > CMakeFiles\SFML_TEST.dir\files\music_manager.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\music_manager.cpp > CMakeFiles\SFML_TEST.dir\files\music_manager.cpp.i
 
 CMakeFiles/SFML_TEST.dir/files/music_manager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SFML_TEST.dir/files/music_manager.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\music_manager.cpp -o CMakeFiles\SFML_TEST.dir\files\music_manager.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\music_manager.cpp -o CMakeFiles\SFML_TEST.dir\files\music_manager.cpp.s
 
 CMakeFiles/SFML_TEST.dir/files/ship.cpp.obj: CMakeFiles/SFML_TEST.dir/flags.make
 CMakeFiles/SFML_TEST.dir/files/ship.cpp.obj: CMakeFiles/SFML_TEST.dir/includes_CXX.rsp
 CMakeFiles/SFML_TEST.dir/files/ship.cpp.obj: ../files/ship.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SFML_TEST.dir/files/ship.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\ship.cpp.obj -c C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\ship.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SFML_TEST.dir/files/ship.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\ship.cpp.obj -c C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\ship.cpp
 
 CMakeFiles/SFML_TEST.dir/files/ship.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SFML_TEST.dir/files/ship.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\ship.cpp > CMakeFiles\SFML_TEST.dir\files\ship.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\ship.cpp > CMakeFiles\SFML_TEST.dir\files\ship.cpp.i
 
 CMakeFiles/SFML_TEST.dir/files/ship.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SFML_TEST.dir/files/ship.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\ship.cpp -o CMakeFiles\SFML_TEST.dir\files\ship.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\ship.cpp -o CMakeFiles\SFML_TEST.dir\files\ship.cpp.s
 
 CMakeFiles/SFML_TEST.dir/files/sound_manager.cpp.obj: CMakeFiles/SFML_TEST.dir/flags.make
 CMakeFiles/SFML_TEST.dir/files/sound_manager.cpp.obj: CMakeFiles/SFML_TEST.dir/includes_CXX.rsp
 CMakeFiles/SFML_TEST.dir/files/sound_manager.cpp.obj: ../files/sound_manager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SFML_TEST.dir/files/sound_manager.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\sound_manager.cpp.obj -c C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\sound_manager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SFML_TEST.dir/files/sound_manager.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML_TEST.dir\files\sound_manager.cpp.obj -c C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\sound_manager.cpp
 
 CMakeFiles/SFML_TEST.dir/files/sound_manager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SFML_TEST.dir/files/sound_manager.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\sound_manager.cpp > CMakeFiles\SFML_TEST.dir\files\sound_manager.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\sound_manager.cpp > CMakeFiles\SFML_TEST.dir\files\sound_manager.cpp.i
 
 CMakeFiles/SFML_TEST.dir/files/sound_manager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SFML_TEST.dir/files/sound_manager.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\files\sound_manager.cpp -o CMakeFiles\SFML_TEST.dir\files\sound_manager.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\files\sound_manager.cpp -o CMakeFiles\SFML_TEST.dir\files\sound_manager.cpp.s
 
 # Object files for target SFML_TEST
 SFML_TEST_OBJECTS = \
@@ -198,7 +198,7 @@ SFML_TEST.exe: ../libs/sfml-2.5.1-64-windows/lib/libsfml-system-d.a
 SFML_TEST.exe: CMakeFiles/SFML_TEST.dir/linklibs.rsp
 SFML_TEST.exe: CMakeFiles/SFML_TEST.dir/objects1.rsp
 SFML_TEST.exe: CMakeFiles/SFML_TEST.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable SFML_TEST.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable SFML_TEST.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SFML_TEST.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -211,6 +211,6 @@ CMakeFiles/SFML_TEST.dir/clean:
 .PHONY : CMakeFiles/SFML_TEST.dir/clean
 
 CMakeFiles/SFML_TEST.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build C:\Users\Aidan\Desktop\Projects\SFML-SHOOTER\build\CMakeFiles\SFML_TEST.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build C:\Users\Aidan\Documents\GitHub\SFML-Space-Shooter\build\CMakeFiles\SFML_TEST.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/SFML_TEST.dir/depend
 
