@@ -90,55 +90,51 @@ int main()
         }
 
         // keyboard input
-        if (sf::Event::KeyPressed) // always true
-        { // if a key is pass through list
-            PRINT("key press detected");
-            if (sf::Keyboard::isKeyPressed(sf::Keyboard::Escape))
-            { // close window
-                window.close();
+        if (sf::Keyboard::isKeyPressed(sf::Keyboard::Escape))
+        { // close window
+            window.close();
+        }
+        if (sf::Keyboard::isKeyPressed(sf::Keyboard::H))
+        { // switch between different hud modes
+            if (sf::Keyboard::isKeyPressed(sf::Keyboard::Num0))
+            { // switch to debug text
+                drawDebugHud = true;
             }
-            if (sf::Keyboard::isKeyPressed(sf::Keyboard::H))
-            { // switch between different hud modes
-                if (sf::Keyboard::isKeyPressed(sf::Keyboard::Num0)) 
-                { // switch to debug text
-                    drawDebugHud = true;
-                }
-                if (sf::Keyboard::isKeyPressed(sf::Keyboard::Num9)) 
-                { // switch to regular text
-                    drawDebugHud = false;
-                }
+            if (sf::Keyboard::isKeyPressed(sf::Keyboard::Num9))
+            { // switch to regular text
+                drawDebugHud = false;
             }
-            if (sf::Keyboard::isKeyPressed(sf::Keyboard::P)) 
-            { // pause game
-                if (!paused)
-                {
-                    paused = true;
-                }
+        }
+        if (sf::Keyboard::isKeyPressed(sf::Keyboard::P))
+        { // pause game
+            if (!paused)
+            {
+                paused = true;
             }
-            if (sf::Keyboard::isKeyPressed(sf::Keyboard::U)) 
-            { // unpause game
-                paused = false;
+        }
+        if (sf::Keyboard::isKeyPressed(sf::Keyboard::U))
+        { // unpause game
+            paused = false;
+        }
+        if (sf::Keyboard::isKeyPressed(sf::Keyboard::V))
+        { // increase max framerate
+            if (FRAME_LIMIT <= 250)
+            {
+                FRAME_LIMIT += 5;
             }
-            if (sf::Keyboard::isKeyPressed(sf::Keyboard::V)) 
-            { // increase max framerate
-                if (FRAME_LIMIT <= 250)
-                {
-                    FRAME_LIMIT += 5;
-                }
-                window.setFramerateLimit(FRAME_LIMIT);
+            window.setFramerateLimit(FRAME_LIMIT);
+        }
+        if (sf::Keyboard::isKeyPressed(sf::Keyboard::B))
+        { // decrease max framerate
+            if (FRAME_LIMIT >= 30)
+            {
+                FRAME_LIMIT -= 5;
             }
-            if (sf::Keyboard::isKeyPressed(sf::Keyboard::B))
-            { // decrease max framerate
-                if (FRAME_LIMIT >= 30)
-                {
-                    FRAME_LIMIT -= 5;
-                }
-                window.setFramerateLimit(FRAME_LIMIT);
-            }
-            if (sf::Keyboard::isKeyPressed(sf::Keyboard::Enter))
-            { // increase player health
-                ship->SetHealth(ship->GetHealth() + 1);
-            }
+            window.setFramerateLimit(FRAME_LIMIT);
+        }
+        if (sf::Keyboard::isKeyPressed(sf::Keyboard::Enter))
+        { // increase player health
+            ship->SetHealth(ship->GetHealth() + 1);
         }
 
         if (!paused) // main gameplay loop

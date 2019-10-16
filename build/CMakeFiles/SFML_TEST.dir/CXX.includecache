@@ -892,6 +892,16 @@ functional
 cfloat
 -
 
+C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/hud_element.cpp
+hud_element.h
+C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/hud_element.h
+
+C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/hud_element.h
+generic_include.h
+C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/generic_include.h
+sound_manager.h
+C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sound_manager.h
+
 C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/laser.cpp
 laser.h
 C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/laser.h
@@ -900,19 +910,9 @@ C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/laser.h
 entity.h
 C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/entity.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/main_inlcude.h
-laser.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/laser.h
-entity.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/entity.h
-ship.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/ship.h
-asteroid.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/asteroid.h
+C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/music_manager.cpp
 sound_manager.h
 C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sound_manager.h
-generic_include.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/generic_include.h
 
 C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/ship.cpp
 ship.h
@@ -922,11 +922,11 @@ C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/ship.h
 entity.h
 C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/entity.h
 
+C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sound_manager.cpp
+sound_manager.h
+C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sound_manager.h
+
 C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sound_manager.h
 generic_include.h
 C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/generic_include.h
-
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/main.cpp
-files/main_inlcude.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/main_inlcude.h
 

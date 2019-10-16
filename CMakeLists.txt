@@ -2,9 +2,6 @@ cmake_minimum_required(VERSION 3.0.0)
 project(SFML_TEST VERSION 0.1.0)
 set(CXX_STANDARD 17)
 
-include(CTest)
-enable_testing()
-
 # if windows
 if(WIN32)
     set(SFML_DIR "libs/SFML-2.5.1-64-windows/lib/cmake/SFML/")
