@@ -18,8 +18,4 @@ find_package(SFML 2.5.1 COMPONENTS graphics audio window system REQUIRED)
 
 add_executable(${PROJECT_NAME} main.cpp ${FILES})
 
-set(CPACK_PROJECT_NAME ${PROJECT_NAME})
-set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
-include(CPack)
-
 target_link_libraries(${PROJECT_NAME} sfml-graphics sfml-audio sfml-window sfml-system)

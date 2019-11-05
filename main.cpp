@@ -11,7 +11,8 @@ States GAME_STATE = START;
 
 // move global variables into respective classes EG: font, hud = HudElement
 // argc = count, argv = vector
-int main()
+
+int main(void)
 {
     PRINT("setting FRAME_LIMIT to 60");
     int FRAME_LIMIT = 60;
@@ -28,7 +29,7 @@ int main()
     int asteroidSpawnDelay{DEF_ASTEROID_SPAWN_TIMER}; // move to asteroid
     int selectedLaser{0};                             // move to entity manager
 
-    // hud
+    // debug text
     bool drawDebugHud{false};
     sf::Font font;
     sf::Text *hud = new sf::Text;
@@ -45,9 +46,10 @@ int main()
     background->setScale(.7f, .7f);
 
     // window
+    bool useVsync = true;
     sf::String winTitle = "Asteroid Clone";
     sf::RenderWindow window(sf::VideoMode(winWidth, winHeight), winTitle, sf::Style::Default);
-    window.setVerticalSyncEnabled(false);
+    window.setVerticalSyncEnabled(useVsync);
     window.setFramerateLimit(FRAME_LIMIT);
 
     // generic
@@ -79,7 +81,7 @@ int main()
         auto lastFrame = elapsedTime.restart();      // store last frame time and restart clock
         auto mFT = lastFrame.asMilliseconds();       // store last frame as milliseconds
         auto fps = int((1 / lastFrame.asSeconds())); // calculate fps
-        window.setTitle(winTitle + "\tFPS : " + std::to_string(fps));
+        window.setTitle(winTitle + " | \t framerate : " + std::to_string(fps) + " | \t frametime : " + std::to_string(mFT) + " ms" + " | \t vsync : " +  std::to_string(useVsync));
 
         // keyboard Input
         sf::Event event;
@@ -88,11 +90,24 @@ int main()
             if (event.type == sf::Event::Closed)
                 window.close();
         }
-
         // keyboard input
         if (sf::Keyboard::isKeyPressed(sf::Keyboard::Escape))
         { // close window
             window.close();
+        }
+        if (sf::Keyboard::isKeyPressed(sf::Keyboard::F1))
+        { // close window
+            if (!useVsync)
+            {
+                useVsync = true;
+                PRINT("vsync enabled");
+            }
+            else
+            {
+                useVsync = false;
+                PRINT("vsync dissabled");
+            }
+            window.setVerticalSyncEnabled(useVsync);
         }
         if (sf::Keyboard::isKeyPressed(sf::Keyboard::H))
         { // switch between different hud modes
