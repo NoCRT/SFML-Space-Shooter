@@ -1,9 +1,9 @@
 # Asteroid Clone v0.1.1
 
 ## game main TODO:
-1 - create functional game
-2 - upgrade functionality with systems like a component system && general expandability
-3 - polish existing systems and add a gui library like sfGUI
+* 1 - create functional game
+* 2 - upgrade functionality with systems like a component system && general expandability
+* 3 - polish existing systems and add a gui library like sfGUI
 
 ## Component System Examples (TODO):
 * Keyboard Handler             retrieves keyboard states
@@ -14,24 +14,24 @@
 * Audio Manager    (singleton) used to create sounds and play music. music is put into vector when playing, removed when finished
 * System Manager   (singleton) contains all managers
 
-## TODO Stuff
+## TODO
 TODO KEY: ^= complete, #= working on, *= optional / no use at the moment, \= todo at later date
-OLD STUFF (12 December 2018)
-[*]	Create states for laser
-[*]	Laser updates differently depending on state
-[*]	States - expire(reset location and hide sprite), renew(refire after reset)
-[*]	Set delay inbetween firing
-[*]	Create asteroids class
-[*]	Have asteroids generate between window width bounds 
-[*]	Have laser collision with asteroids
-[*] Stop hitbox from staying after asteroid is hit
-[*]	Create sound effects for events EG: lives being removed, lasers being shot, asteroid being destroyed, general space background music
-[*] Create sound manager to play _sound effects (laser fire, asteroid destruction ect)
-[*]	Set lives for game over
-[*] Set lasers to respawn at proper position
-[*]	Set game speed to be exluded from frame rate (sf::clock and render times / frame times)
+### OLD STUFF (12 December 2018)
+* [*]	Create states for laser
+* [*]	Laser updates differently depending on state
+* [*]	States - expire(reset location and hide sprite), renew(refire after reset)
+* [*]	Set delay inbetween firing
+* [*]	Create asteroids class
+* [*]	Have asteroids generate between window width bounds 
+* [*]	Have laser collision with asteroids
+* [*] Stop hitbox from staying after asteroid is hit
+* [*]	Create sound effects for events EG: lives being removed, lasers being shot, asteroid being destroyed, general space background music
+* [*] Create sound manager to play _sound effects (laser fire, asteroid destruction ect)
+* [*]	Set lives for game over
+* [*] Set lasers to respawn at proper position
+* [*]	Set game speed to be exluded from frame rate (sf::clock and render times / frame times)
 
-NEW STUFF (07 August 2019)
+### NEW STUFF (07 August 2019)
 [*] Reorganise project files for easier maintenance
 [*] Give player invul frames after hitting an asteroid
 [*] Make player opaque during invul frames
