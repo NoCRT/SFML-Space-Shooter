@@ -1,42 +1,42 @@
 [
 {
-  "directory": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\main.cpp.obj -c C:\\Users\\Aidan\\Documents\\GitHub\\SFML-Space-Shooter\\main.cpp",
-  "file": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/main.cpp"
+  "directory": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\main.cpp.obj -c C:\\Users\\Aidan\\Documents\\Github\\SFML-Space-Shooter\\main.cpp",
+  "file": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/main.cpp"
 },
 {
-  "directory": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\asteroid.cpp.obj -c C:\\Users\\Aidan\\Documents\\GitHub\\SFML-Space-Shooter\\files\\asteroid.cpp",
-  "file": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/asteroid.cpp"
+  "directory": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\asteroid.cpp.obj -c C:\\Users\\Aidan\\Documents\\Github\\SFML-Space-Shooter\\files\\asteroid.cpp",
+  "file": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/asteroid.cpp"
 },
 {
-  "directory": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\entity.cpp.obj -c C:\\Users\\Aidan\\Documents\\GitHub\\SFML-Space-Shooter\\files\\entity.cpp",
-  "file": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/entity.cpp"
+  "directory": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\entity.cpp.obj -c C:\\Users\\Aidan\\Documents\\Github\\SFML-Space-Shooter\\files\\entity.cpp",
+  "file": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.cpp"
 },
 {
-  "directory": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\hud_element.cpp.obj -c C:\\Users\\Aidan\\Documents\\GitHub\\SFML-Space-Shooter\\files\\hud_element.cpp",
-  "file": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/hud_element.cpp"
+  "directory": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\hud_element.cpp.obj -c C:\\Users\\Aidan\\Documents\\Github\\SFML-Space-Shooter\\files\\hud_element.cpp",
+  "file": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/hud_element.cpp"
 },
 {
-  "directory": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\laser.cpp.obj -c C:\\Users\\Aidan\\Documents\\GitHub\\SFML-Space-Shooter\\files\\laser.cpp",
-  "file": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/laser.cpp"
+  "directory": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\laser.cpp.obj -c C:\\Users\\Aidan\\Documents\\Github\\SFML-Space-Shooter\\files\\laser.cpp",
+  "file": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/laser.cpp"
 },
 {
-  "directory": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\music_manager.cpp.obj -c C:\\Users\\Aidan\\Documents\\GitHub\\SFML-Space-Shooter\\files\\music_manager.cpp",
-  "file": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/music_manager.cpp"
+  "directory": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\music_manager.cpp.obj -c C:\\Users\\Aidan\\Documents\\Github\\SFML-Space-Shooter\\files\\music_manager.cpp",
+  "file": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/music_manager.cpp"
 },
 {
-  "directory": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\ship.cpp.obj -c C:\\Users\\Aidan\\Documents\\GitHub\\SFML-Space-Shooter\\files\\ship.cpp",
-  "file": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/ship.cpp"
+  "directory": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\ship.cpp.obj -c C:\\Users\\Aidan\\Documents\\Github\\SFML-Space-Shooter\\files\\ship.cpp",
+  "file": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/ship.cpp"
 },
 {
-  "directory": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\sound_manager.cpp.obj -c C:\\Users\\Aidan\\Documents\\GitHub\\SFML-Space-Shooter\\files\\sound_manager.cpp",
-  "file": "C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sound_manager.cpp"
+  "directory": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/SFML_TEST.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\SFML_TEST.dir\\files\\sound_manager.cpp.obj -c C:\\Users\\Aidan\\Documents\\Github\\SFML-Space-Shooter\\files\\sound_manager.cpp",
+  "file": "C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.cpp"
 }
 ]

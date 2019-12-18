@@ -850,29 +850,29 @@ SFML/System/Vector2.hpp
 SFML/System/Vector3.hpp
 -
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/asteroid.cpp
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/asteroid.cpp
 asteroid.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/asteroid.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/asteroid.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/asteroid.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/asteroid.h
 entity.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/entity.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/entity.cpp
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.cpp
 entity.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/entity.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/entity.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.h
 generic_include.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/generic_include.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/generic_include.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/generic_include.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/generic_include.h
 sfml/Graphics.hpp
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sfml/Graphics.hpp
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sfml/Graphics.hpp
 sfml/Audio.hpp
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sfml/Audio.hpp
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sfml/Audio.hpp
 sfml/System.hpp
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sfml/System.hpp
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sfml/System.hpp
 vector
 -
 string
@@ -892,59 +892,59 @@ functional
 cfloat
 -
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/hud_element.cpp
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/hud_element.cpp
 hud_element.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/hud_element.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/hud_element.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/hud_element.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/hud_element.h
 generic_include.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/generic_include.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/generic_include.h
 sound_manager.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sound_manager.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/laser.cpp
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/laser.cpp
 laser.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/laser.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/laser.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/laser.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/laser.h
 entity.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/entity.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/main_inlcude.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/main_inlcude.h
 laser.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/laser.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/laser.h
 entity.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/entity.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.h
 ship.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/ship.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/ship.h
 asteroid.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/asteroid.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/asteroid.h
 sound_manager.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sound_manager.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.h
 generic_include.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/generic_include.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/generic_include.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/music_manager.cpp
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/music_manager.cpp
 sound_manager.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sound_manager.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/ship.cpp
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/ship.cpp
 ship.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/ship.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/ship.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/ship.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/ship.h
 entity.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/entity.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sound_manager.cpp
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.cpp
 sound_manager.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sound_manager.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/sound_manager.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.h
 generic_include.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/generic_include.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/generic_include.h
 
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/main.cpp
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/main.cpp
 files/main_inlcude.h
-C:/Users/Aidan/Documents/GitHub/SFML-Space-Shooter/files/main_inlcude.h
+C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/main_inlcude.h
 
