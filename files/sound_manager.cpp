@@ -67,3 +67,27 @@ sf::Sound *SoundManager::GetSound()
 {
     return &sound;
 }
+
+void SoundManager::PlaySound(const std::string path, int volume)
+{
+    soundQueue.emplace_back(Sound(path));
+}
+
+void SoundManager::PlaySound(sf::SoundBuffer& buffer, int volume)
+{
+    soundQueue.emplace_back(Sound(buffer));
+}
+
+void SoundManager::AltUpdate()
+{
+    if (clock.getElapsedTime().asSeconds() > 5)
+    {
+        printf("soundQueue count = %i\n", soundQueue.size());
+        
+        // clean array of stopped sounds
+        auto ri = std::remove_if(soundQueue.begin(), soundQueue.end(),[](const Sound &s) {return s.sound.getStatus() == s.sound.Stopped;});
+        soundQueue.erase(ri, soundQueue.end());
+
+        clock.restart();
+    }
+}

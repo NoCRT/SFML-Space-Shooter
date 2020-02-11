@@ -35,13 +35,17 @@
 const static std::string
     SOUND_LASER{"Sounds/laser-shot.wav"},
     SOUND_LASER_BOUNDS{"Sounds/live-impact.wav"},
-    MUSIC_SPACE{"Music/space-background.wav"},
     SOUND_ASTEROID{"Sounds/asteroid-impact.wav"},
+    MUSIC_SPACE{"Music/space-background.wav"},
     IMAGE_SHIP{"Images/ship.png"},
     IMAGE_ASTEROID{"Images/asteroid.png"},
     IMAGE_SPACE{"Images/space.png"},
     IMAGE_LASER{"Images/laser.png"},
     FONT_GEOSANS{"Fonts/GeosansLight.ttf"};
+
+static sf::SoundBuffer LASER_FIRE_BUFFER;
+static sf::SoundBuffer LASER_SOUND_BOUND_BUFFER;
+static sf::SoundBuffer ASTEROID_IMPACT_BUFFER;
 
 static unsigned int winWidth{1024};
 static unsigned int winHeight{768};

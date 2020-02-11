@@ -850,15 +850,7 @@ SFML/System/Vector2.hpp
 SFML/System/Vector3.hpp
 -
 
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/asteroid.cpp
-asteroid.h
 C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/asteroid.h
-
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/asteroid.h
-entity.h
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.h
-
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.cpp
 entity.h
 C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.h
 
@@ -892,20 +884,6 @@ functional
 cfloat
 -
 
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/hud_element.cpp
-hud_element.h
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/hud_element.h
-
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/hud_element.h
-generic_include.h
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/generic_include.h
-sound_manager.h
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.h
-
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/laser.cpp
-laser.h
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/laser.h
-
 C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/laser.h
 entity.h
 C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.h
@@ -924,21 +902,9 @@ C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.h
 generic_include.h
 C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/generic_include.h
 
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/music_manager.cpp
-sound_manager.h
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.h
-
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/ship.cpp
-ship.h
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/ship.h
-
 C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/ship.h
 entity.h
 C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/entity.h
-
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.cpp
-sound_manager.h
-C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.h
 
 C:/Users/Aidan/Documents/Github/SFML-Space-Shooter/files/sound_manager.h
 generic_include.h
