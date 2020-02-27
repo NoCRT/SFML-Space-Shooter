@@ -97,17 +97,22 @@ int main(void)
         }
         if (sf::Keyboard::isKeyPressed(sf::Keyboard::F1))
         { // close window
-            if (!useVsync)
+            static sf::Clock resetTimer;
+            if (resetTimer.getElapsedTime().asSeconds() > 1)
             {
-                useVsync = true;
-                PRINT("vsync enabled");
+                if (!useVsync)
+                {
+                    useVsync = true;
+                    PRINT("vsync enabled");
+                }
+                else
+                {
+                    useVsync = false;
+                    PRINT("vsync dissabled");
+                }
+                window.setVerticalSyncEnabled(useVsync);
+                resetTimer.restart();
             }
-            else
-            {
-                useVsync = false;
-                PRINT("vsync dissabled");
-            }
-            window.setVerticalSyncEnabled(useVsync);
         }
         if (sf::Keyboard::isKeyPressed(sf::Keyboard::H))
         { // switch between different hud modes
