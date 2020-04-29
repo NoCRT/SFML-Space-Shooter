@@ -96,7 +96,7 @@ int main(void)
             window.close();
         }
         if (sf::Keyboard::isKeyPressed(sf::Keyboard::F1))
-        { // close window
+        {
             static sf::Clock resetTimer;
             if (resetTimer.getElapsedTime().asSeconds() > 1)
             {
